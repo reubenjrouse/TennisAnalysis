@@ -1,0 +1,5 @@
+venv/
+input_videos/
+output_videos/
+models/
+yolov8x.pt
